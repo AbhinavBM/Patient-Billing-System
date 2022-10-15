@@ -1,0 +1,17 @@
+	     PATIENT BILL
+
+ Bill Number : 6785 
+ Patient Name : Abhinav 
+ Phone Number : 1MS21CY003
+************************************
+ Products 		QTY	     Price
+************************************
+ Medicine 1		1	   10
+ Medicine 3		2	   60
+ Consultation		1	   500
+ Injection		2	   160
+************************************
+ Medicine Tax 			Rs. 0.7
+ Hospital Tax 			Rs. 6.6
+ Total Bill 			Rs. 737.3
+************************************
